@@ -1,0 +1,33 @@
+Name: Model
+Type: FolderType
+Children:
+- Name: Percentage1
+  Id: g=934543fc32baffbea1d1743827b44678
+  Type: BaseDataVariableType
+  DataType: Byte
+  Value: 0
+- Name: Percentage2
+  Id: g=68b4598de709b3b8cd9c4cada2ed6a8d
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: RawMin
+  Id: g=0bed854a40fe1c51c6b2e2994be52188
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: RawMax
+  Id: g=658ff4bab444bd510ef1f63c312f6997
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 255
+- Name: ScaledMin
+  Id: g=ad76fe70ab957598b131feecf00d1a0b
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: ScaledMax
+  Id: g=d8d71fce5d589af8b6bf8d197667cbc2
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 100
